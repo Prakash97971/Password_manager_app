@@ -94,10 +94,18 @@ PassOP provides a simple interface for users to save, retrieve, edit, and delete
 6. Toggle the eye-icon to show/hide password text.
 
 ---
+---
+## Live Demo
+
+See the deployed application running at:
+
+[https://password-manager-mns08dprp-prakash270s-projects.vercel.app](https://password-manager-mns08dprp-prakash270s-projects.vercel.app)
+
+---
 
 ## GitHub Repository
 
-[https://github.com/Prakash97971/PassOP](https://github.com/Prakash97971/Password_manager_app)
+[https://github.com/Prakash97971/Password_manager_app](https://github.com/Prakash97971/Password_manager_app)
 
 ---
 
