@@ -106,4 +106,5 @@ PassOP provides a simple interface for users to save, retrieve, edit, and delete
 Prakash Shaw
 [GitHub Profile](https://github.com/Prakash97971)
 
-![App Screenshot](Password_app/assets/Screenshot%202025-06-23%20005931.png)
+![App Screenshot](<Password_app/assets/Screenshot 2025-06-23 005931.png>)
+
