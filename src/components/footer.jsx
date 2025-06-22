@@ -9,12 +9,12 @@ const Footer = () => {
                     <span className="text-xl font-bold text-green-400">OP/&gt;</span>
                 </div>
                 <div className='flex gap-1 text-lg font-bold'>
-                    <span> Created with </span>
-                    <span className='my-auto'><lord-icon
+                    <span> Created  </span>
+                    {/* <span className='my-auto'><lord-icon
                         src="https://cdn.lordicon.com/aydxrkfl.json"
                         trigger="hover"
                         stroke="bold">
-                    </lord-icon></span>
+                    </lord-icon></span> */}
                     <span>by Prakash </span>
                 </div>
             </div>
