@@ -53,11 +53,10 @@ PassOP provides a simple interface for users to save, retrieve, edit, and delete
 1. **Install backend dependencies**:
 
    ```bash
-   cd backend
    npm install
    ```
 
-2. **Configure environment variables** by creating a `.env` file in the `backend` folder:
+2. **Configure environment variables** by creating a `.env` file :
 
    ```ini
    MONGO_URI=your_mongodb_connection_uri
@@ -74,7 +73,6 @@ PassOP provides a simple interface for users to save, retrieve, edit, and delete
 4. **Install frontend dependencies**:
 
    ```bash
-   cd ../frontend
    npm install
    ```
 
